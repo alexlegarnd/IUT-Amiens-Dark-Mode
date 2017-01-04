@@ -1,0 +1,15 @@
+{
+"name" :"ENT IUT Amiens Dark Mode",
+"version" :"1.0",
+"manifest_version": 2,
+"description" :"Bah il met l'ENT plus sombre connard",
+"browser_action" :
+	{
+		"default_icon" : "icon.png"
+	},
+ "content_scripts": [ {
+				      "css": [ "ent.css" ],
+				      "matches": [ "https://ent.iut-amiens.fr/*" ]
+				   } ]
+}
+

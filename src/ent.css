@@ -1,0 +1,23 @@
+* {
+	background-color: #2b2b2b !important;
+	background: #2b2b2b !important;
+	color: white;
+	margin: #2b2b2b !important;
+	border: #2b2b2b !important;
+	text-shadow: 0 0 0 white !important;
+}
+a {
+    color: #f45f42 !important;
+	text-shadow: 0 0 0 white !important;
+}
+body{
+	color: white !important;
+}
+
+.block{
+	border: #4f4f4f !important;
+}
+.breadcrumb {
+    background: #2b2b2b !important;
+    text-shadow: 0px 0px white !important;
+}
