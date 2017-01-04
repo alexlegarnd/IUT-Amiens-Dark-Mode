@@ -4,11 +4,11 @@
 	color: white;
 	margin: #2b2b2b !important;
 	border: #2b2b2b !important;
-	text-shadow: 0 0 0 white !important;
+	text-shadow: none !important;
 }
 a {
     color: #f45f42 !important;
-	text-shadow: 0 0 0 white !important;
+	text-shadow: none !important;
 }
 body{
 	color: white !important;
@@ -19,5 +19,5 @@ body{
 }
 .breadcrumb {
     background: #2b2b2b !important;
-    text-shadow: 0px 0px white !important;
+    text-shadow: none !important;
 }
